@@ -1,0 +1,36 @@
+Changed database context to 'CIPS_SUP_PHILLY'.
+Patient ALC Rx         
+----------- -----------
+          1           1
+
+(1 rows affected)
+Unmapped Patient Facilities
+---------------------------
+                          1
+
+(1 rows affected)
+Patients    Patients with missing account # Unique Patients
+----------- ------------------------------- ---------------
+          1                               0               1
+
+(1 rows affected)
+Missing ALC Records
+-------------------
+                  0
+
+(1 rows affected)
+Allergies for Missing Patients
+------------------------------
+                             0
+
+(1 rows affected)
+Rx's with missing provider NPI
+------------------------------
+                             0
+
+(1 rows affected)
+Rx's with missing drug names
+----------------------------
+                           0
+
+(1 rows affected)

@@ -1,0 +1,36 @@
+Changed database context to 'CIPS_TEST_AG'.
+Patient ALC Rx         
+----------- -----------
+        116       21102
+
+(1 rows affected)
+Unmapped Patient Facilities
+---------------------------
+                         10
+
+(1 rows affected)
+Patients    Patients with missing account # Unique Patients
+----------- ------------------------------- ---------------
+       5533                               0            5533
+
+(1 rows affected)
+Missing ALC Records
+-------------------
+                  0
+
+(1 rows affected)
+Allergies for Missing Patients
+------------------------------
+                            38
+
+(1 rows affected)
+Rx's with missing provider NPI
+------------------------------
+                             0
+
+(1 rows affected)
+Rx's with missing drug names
+----------------------------
+                           0
+
+(1 rows affected)
